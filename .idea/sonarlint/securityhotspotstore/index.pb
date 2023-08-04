@@ -1,0 +1,5 @@
+
+@
+spout/.gitignore,5\4\5465d1a3ab5d155f9081481906ae2aa8503981ba
+9
+	spout.cpp,f\9\f914cb6852805c826b55e2901d615c995cc132d1
